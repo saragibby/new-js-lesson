@@ -1,0 +1,7 @@
+{
+    "name": "JavaScript Lesson",
+    "description": "JavaScript Lesson",
+    "scripts": {
+        "start": "npx http-server -c-1 -o"
+    }
+}
